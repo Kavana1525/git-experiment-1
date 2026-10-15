@@ -1,2 +1,3 @@
 Git and GitHub Experiment 1
 This project demonstrates basic Git operations using VS Code.
+Git status helps track changes in a repository.
